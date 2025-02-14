@@ -1,6 +1,6 @@
-Progres Belajar di Dicoding 
+# Progres Belajar di Dicoding 
 
-Tanggal 13 Februari 2025
+**Tanggal 13 Februari 2025**<br>
 Memulai Belajar Pemrograman untuk Pengembangan Software. (Progres 100%)
 * Belajar mengenai pengarsipan perangkat lunak beserta studi kasusnya
 * Belajar mengenai kebutuhan aplikasi dari sisi pengguna beserta studi kasusnya
@@ -8,7 +8,7 @@ Memulai Belajar Pemrograman untuk Pengembangan Software. (Progres 100%)
 * Belajar mengenai penyelesaian masalah menggunakan cara komputasional beserta studi kasusnya
 * Belajar mengenai sintaksis dan case sensitive beserta studi kasusnya
 
-Tanggal 14 Februari 2025
+**Tanggal 14 Februari 2025**<br>
 Pengenalan Logika Pemrograman. (Progres 100%)
 * Belajar mengenai Gerbang Logika
 * Belajar mengenai Penalaran Logika Induktif dan Deduktif
