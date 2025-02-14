@@ -15,7 +15,7 @@ Pengenalan Logika Pemrograman. (Progres 100%)
 * Belajar mengenai Logika Pemrograman Dasar
 * Belajar mengenai Pengenalan Computational dan studi kasusnya
 
-Belajar Dasar Git dengan GitHub. (Progres 40%)
+Belajar Dasar Git dengan GitHub. (Progres 60%)
 * Belajar mengenai Git
 * Belajar mengenai GitHub
 * Belajar mengenai Repositori
@@ -28,3 +28,4 @@ Belajar Dasar Git dengan GitHub. (Progres 40%)
 * Belajar menambahkan file baru
 * Belajar mengeksplorasi proyek GitHub
 * Belajar mengenal GitHub Dashboard
+* Belajar Studi Kasus Pengalaman Belajar setelah mempelajari dasar-dasarnya.
